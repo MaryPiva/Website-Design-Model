@@ -1,3 +1,3 @@
 # Website-Design-Model
- Websit
+ Website
  UNDER CONSTRUCTION
